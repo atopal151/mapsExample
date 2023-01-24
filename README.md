@@ -1,11 +1,11 @@
 # mapsExample
 
-## MapView 
-## Region
-## Markers
-## Animated Markers
-## CurrentPosition 
-## Geo Location
+### MapView 
+### Region
+### Markers
+### Animated Markers
+### CurrentPosition 
+### Geo Location
 
 # The Video about the Maps Example
 
