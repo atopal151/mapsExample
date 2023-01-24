@@ -1,4 +1,4 @@
-# mapsExample
+# Maps Example
 
 ### MapView 
 ### Region
